@@ -1,0 +1,14 @@
+
+**Meaning of the internet**
+The internet is a global network of interconnected computers that enables the exchange of information and communication withing networked computers worldwide.
+
+**Who controls the internet?**
+No one or government controls the internet however, certain organizations plays a signifacant role in managing various aspect of the internet's infrastructure. Examples of such organizations are:
+**ICANN -** Internet Corporation for Assigned Names and Numbers is a non-profit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the internet, ensuring the network's stable and secure operation. It oversees domain name system (DNS) management, IP address allocation, and protocol assignment.
+**Internet Engineering Task Force (IETF):** The IETF is a large open international community of network designers, operators, vendors, and researchers concerned with the evolution of internet architecture and the smooth operation of the internet. It develops and promotes voluntary internet standards, protocols, and technical specifications through open collaboration and consensus-based processes.
+**Founders of The Internet**
+The internet, as a complex network of interconnected computers, does not have a single founder. Rather, it emerged from the work of numerous individuals, organizations, and research projects over several decades. However, there are several key figures who made significant contributions to the development of the technologies and protocols that form the foundation of the internet:
+
+**Vinton Cerf:** Often referred to as one of the "fathers of the internet," Vinton Cerf is a computer scientist who, along with Robert Kahn,in the late 1960s co-designed the TCP/IP protocols, which are fundamental to the operation of the internet. Cerf was instrumental in the development of ARPANET, the predecessor to the modern internet, and has been involved in various internet-related initiatives and organizations.
+
+**Robert Kahn:** Robert Kahn, together with Vinton Cerf, co-designed the TCP/IP protocols while working on ARPANET. Their work laid the groundwork for the internet's decentralized and packet-switched communication system.
